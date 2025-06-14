@@ -21,8 +21,8 @@ wb_parser_async/
 1. **Клонируйте репозиторий:**
 
 ```bash
-git clone https://github.com/slava225678/wb-parser-async.git
-cd wb-parser-async
+git clone https://github.com/slava225678/parsing_countc.git
+cd parsing_count
 ```
 
 2. **Создайте и активируйте виртуальное окружение:**
