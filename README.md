@@ -39,7 +39,7 @@ pip install -r requirements.txt
 ```
 
 4. **Подготовьте входной файл:**
-   Создайте CSV-файл `queries.csv` в папке `input/` с двумя колонками:
+   Загрузите CSV-файл `queries.csv` в папке `input/` с двумя колонками:
 
 * `Запрос` — строка запроса
 * `Кол-во запросов` — целое число
@@ -55,7 +55,7 @@ pip install -r requirements.txt
 5. **Запустите скрипт:**
 
 ```bash
-python main.py
+python wbparser.py
 ```
 
 ## Описание логики
